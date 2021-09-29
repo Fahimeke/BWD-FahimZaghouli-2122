@@ -26,24 +26,28 @@ _beschrijf welke pagina’s je wil maken, en met welke inhoud / functionaliteit;
 
 ### PAGINA 1 
 naam: Homepage 
+
 beschrijving:
 
 Start pagina van het website, het is de eerste pagina die de bezoekers zien wanneer ze het website bekijken.
 
 ### PAGINA 2
 naam: Designers
+
 beschrijving:
 
 Hier kun je kiezen tussen een uitgebreide assortiment van luxe merken (designer clothes).
 
 ### PAGINA 3
 naam: Sale  
+
 beschrijving:
 
 Hier zien de bezoekers alle producten die in promotie zijn.
 
 ### PAGINA 4
-naam: Verkopen
+naam: Verkopen 
+
 beschrijving:
 
 Hier kunnen de gebruikers van het website hun artikelen (kleren,petten,schoenen) verkopen. 
