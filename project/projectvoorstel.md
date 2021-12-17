@@ -46,11 +46,11 @@ beschrijving:
 Hier zien de bezoekers alle producten die in promotie zijn.
 
 ### PAGINA 4
-naam: Verkopen 
+naam: Contact
 
 beschrijving:
 
-Hier kunnen de gebruikers van het website hun artikelen (kleren,petten,schoenen) verkopen. 
+Hier kunnen de gebruikers van het website hun contact opnemen met ons klantendienst.
 
 ## E. REFERENTIES (optioneel) 
 zet hier links naar bronnen als de eventuele huidige website, sites of designs waar je je op wil inspireren... 
