@@ -39,7 +39,7 @@ beschrijving:
 Hier kun je kiezen tussen een uitgebreide assortiment van luxe merken (designer clothes).
 
 ### PAGINA 3
-naam: Sale  
+naam: promoties 
 
 beschrijving:
 
