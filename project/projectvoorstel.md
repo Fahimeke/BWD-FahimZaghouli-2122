@@ -32,11 +32,11 @@ beschrijving:
 Start pagina van het website, het is de eerste pagina die de bezoekers zien wanneer ze het website bekijken.
 
 ### PAGINA 2
-naam: Designers
+naam: populaire kleren
 
 beschrijving:
 
-Hier kun je kiezen tussen een uitgebreide assortiment van luxe merken (designer clothes).
+Hier kun je allerlei
 
 ### PAGINA 3
 naam: promoties 
@@ -57,3 +57,4 @@ zet hier links naar bronnen als de eventuele huidige website, sites of designs w
 
 online versie [https://www.mijndomein.com](https://www.mijndomein.com)  
 gebruikte CSS design: [https://www.gratis-css-site.com/gekozen-design](https://www.gratis-css-site.com/gekozen-design) 
+Navigation bar (https://www.w3schools.com/howto/howto_css_navbar_icon.asp) 
