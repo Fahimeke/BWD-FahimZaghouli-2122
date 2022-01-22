@@ -58,3 +58,5 @@ zet hier links naar bronnen als de eventuele huidige website, sites of designs w
 online versie [https://www.mijndomein.com](https://www.mijndomein.com)  
 gebruikte CSS design: [https://www.gratis-css-site.com/gekozen-design](https://www.gratis-css-site.com/gekozen-design) 
 Navigation bar (https://www.w3schools.com/howto/howto_css_navbar_icon.asp) 
+Gebruikte afbeeldingen voor banner (https://unsplash.com/@mnzoutfits)
+Gebruikte afbeeldingen voor kleding/items (https://3125tiger.x.yupoo.com/)
