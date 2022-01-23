@@ -112,7 +112,7 @@ body {
 .pItems_list:hover {
     background-color: rgb(133, 133, 133);
     border-radius: 1px;
-    transition: 0.2s;
+    transition: all 0.2s ease-in;
 }
 
 .pItems p {
